@@ -1,0 +1,36 @@
+.navabar{
+    background-color: rgb(19, 18, 18) !important;
+    color: aqua !important;
+    border-bottom: 5px solid blueviolet !important;
+    box-shadow: 5px 6px 9px blueviolet !important;
+    position: fixed !important;
+    width: 100% !important;
+}
+.dae{
+    color: aqua !important;
+}
+.deasw{
+
+width: 100% !important;
+height: 100vh !important;
+background-color: black !important;
+align-items: center;
+justify-content: center;
+display: flex;
+flex-direction: column;
+
+
+}
+.daesa{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+
+}
+.mysita{
+
+text-align: center !important;
+color: rgb(206, 231, 231);
+font-size: 90px;
+font-weight: bolder;
+
+}
