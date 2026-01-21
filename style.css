@@ -5,6 +5,7 @@
     box-shadow: 5px 6px 9px blueviolet !important;
     position: fixed !important;
     width: 100% !important;
+    z-index: 1;
 }
 .dae{
     color: aqua !important;
